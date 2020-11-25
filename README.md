@@ -1,0 +1,2 @@
+# CaloriesCalculator
+Cloud Architecture Project
